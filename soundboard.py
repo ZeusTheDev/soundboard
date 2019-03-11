@@ -8,5 +8,5 @@ snd1.pack()
 snd2 = tk.Button(root, text='Oof', command=lambda: play_sound('oof'))
 snd2.pack()
 root.title='soundboard'
-root.iconbitmap('chief.ico')
+root.iconbitmap('favicon.ico')
 root.mainloop()
