@@ -1,7 +1,9 @@
 # Python Soundboard
 This is a soundboard I made using python.
 # TODO:
-~~Add "New Sound" button to allow users to add their own sounds easily~~ Add instructions for adding sounds and make it better.
+~~Add "New Sound" button to allow users to add their own sounds easily~~ 
+
+Add instructions for adding sounds and make it better.
 
 Add "Stop" button to stop all sounds
 
