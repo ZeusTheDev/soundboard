@@ -8,3 +8,5 @@ Add instructions for adding sounds and make it better.
 Add "Stop" button to stop all sounds
 
 Stop it from burning your eyes with its horrific design
+
+Put the wav files in a folder
